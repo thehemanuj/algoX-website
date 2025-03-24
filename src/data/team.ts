@@ -26,15 +26,15 @@ export const teamMembers = [
 		},
 	},
 	{
-		name: "Marcus Rodriguez",
-		role: "ML Engineer",
-		bio: "Research focused on NLP and computer vision. Published author in machine learning conferences.",
+		name: "Ayush Kumar Shukla",
+		role: "Android Dev/ML Engineer",
+		bio: "Developing mobile applications with cutting edge machine learning tech.",
 		image:
-			"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
-		expertise: ["NLP", "Computer Vision", "Python"],
+			"https://github.com/thehemanuj/image/blob/main/111111.jpg",
+		expertise: ["Java","Kotlin", "Flutter", "Python"],
 		social: {
-			github: "https://github.com",
-			twitter: "https://twitter.com",
+			github: "https://github.com/thehemanuj",
+			twitter: "https://x.com/kushalhemanuj",
 		},
 	},
 	{
